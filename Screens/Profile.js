@@ -7,7 +7,7 @@ const Profile=()=>{
     return(
       <View>
         <Text>hi profile</Text>
-        <Text>new profile</Text>
+        <Text>new profile i am dhanusha deshanu</Text>
       </View>
     );
 }

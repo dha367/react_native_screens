@@ -7,6 +7,7 @@ const Profile=()=>{
     return(
       <View>
         <Text>hi profile</Text>
+        <Text>new profile</Text>
       </View>
     );
 }
